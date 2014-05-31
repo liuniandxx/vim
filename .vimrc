@@ -1,3 +1,11 @@
+" this is a simple .vimrc for vim 
+" At first,you must install the plugin 'Vundle'
+" and use it to manage plugins (include 'Vundle' self)
+" Install Vundle:
+" 1. go to your home dir
+" 2. git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+
+
 set nocompatible "be improved
 filetype off     " required
 
