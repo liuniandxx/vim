@@ -28,6 +28,7 @@ colorscheme solarized
 set background=dark
 
 " set tab 4 space
+set ts=4
 set autoindent
 set tabstop=4
 set softtabstop=4
