@@ -31,9 +31,19 @@ Bundle 'ervandew/supertab'
 " color theme 
 Bundle 'altercation/vim-colors-solarized'
 
+" NerdTree
+Bundle 'scrooloose/nerdtree'
 
 " syntax on
 syntax enable
+
+"powerline
+Bundle 'Lokaltog/vim-powerline'
+
+" powerline set
+let g:powerline_colorscheme="solarized256"
+set laststatus=2    "Always show the statusline
+
 
 "solarized theme
 set t_Co=256
