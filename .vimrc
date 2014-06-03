@@ -20,7 +20,7 @@ Bundle 'gmarik/vundle'
 Bundle 'https://github.com/davidhalter/jedi-vim.git'
 "if you have meet errors after you install jedi-vim.git
 "you should try following:
-"1. install 'pip' : sudo apt-get install pip
+"1. install 'pip' : sudo apt-get install pip / sudo apt-get install python-pip
 "2. pip install jedi
 "3. put the followings into .bashrc
 "   export PYTHONSTARTUP="$(python -m jedi repl)"
