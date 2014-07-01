@@ -34,6 +34,13 @@ Bundle 'altercation/vim-colors-solarized'
 " NerdTree
 Bundle 'scrooloose/nerdtree'
 
+"vim-shell
+Bundle 'Shougo/vimshell.vim'
+
+"vimproc
+Bundle 'Shougo/vimproc.vim'
+
+
 " syntax on
 syntax enable
 
