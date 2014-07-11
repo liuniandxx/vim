@@ -52,6 +52,9 @@ let g:powerline_colorscheme="solarized256"
 set laststatus=2    "Always show the statusline
 
 
+"vim latex
+Bundle 'git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex'
+
 "solarized theme
 set t_Co=256
 let g:solarized_termcolors=256
