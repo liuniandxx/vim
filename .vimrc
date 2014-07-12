@@ -55,6 +55,9 @@ set laststatus=2    "Always show the statusline
 "vim latex
 Bundle 'git://vim-latex.git.sourceforge.net/gitroot/vim-latex/vim-latex'
 
+"vim latex live preview
+Bundle "xuhdev/vim-latex-live-preview"
+
 "solarized theme
 set t_Co=256
 let g:solarized_termcolors=256
